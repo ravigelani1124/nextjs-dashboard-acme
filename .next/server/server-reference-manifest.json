@@ -1,5 +1,78 @@
 {
-  "node": {},
+  "node": {
+    "032bc774afda232f2519edcd341d7a6faa97de35": {
+      "workers": {
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc",
+        "app/login/page": "action-browser"
+      }
+    },
+    "89edf9e1dfa0cf49872ab4b290112819ac392f68": {
+      "workers": {
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc",
+        "app/login/page": "action-browser"
+      }
+    },
+    "f5709a8437bd9b0db711b4ed8e9ebd92b76a7169": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "52b95c67390674ec38c22862704f844e6493119d": {
+      "workers": {
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser",
+        "app/dashboard/invoices/[id]/edit/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "468237198bfea533e86b73249b258c9af2659fe6": {
+      "workers": {
+        "app/dashboard/(overview)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22createInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/[id]/edit/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/customers/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fravi%2FDocuments%2Fweb2%2Fnextjs-dashboard-acme%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/(overview)/page": "rsc",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "rsc",
+        "app/dashboard/invoices/[id]/edit/page": "rsc",
+        "app/dashboard/customers/page": "rsc"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "PDyy6gyo24U9xbkHyggDdfL/JMZ6pq+W7JMTwTDsuak="
+  "encryptionKey": "01L8FoB1Umbuc2YYjC3NvuyD6xBS4JqloJ047UuG3i4="
 }
